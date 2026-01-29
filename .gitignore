@@ -1,0 +1,7 @@
+
+.venv/
+data/news_verifications.db
+models/*.joblib
+.env
+_pycache_/
+*.pyc
